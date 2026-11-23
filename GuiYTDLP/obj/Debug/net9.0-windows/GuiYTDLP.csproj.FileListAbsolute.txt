@@ -1,0 +1,17 @@
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\obj\Debug\net9.0-windows\GuiYTDLP.Form1.resources
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\obj\Debug\net9.0-windows\GuiYTDLP.csproj.GenerateResource.cache
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\obj\Debug\net9.0-windows\GuiYTDLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\obj\Debug\net9.0-windows\GuiYTDLP.AssemblyInfoInputs.cache
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\obj\Debug\net9.0-windows\GuiYTDLP.AssemblyInfo.cs
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\obj\Debug\net9.0-windows\GuiYTDLP.csproj.CoreCompileInputs.cache
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\bin\Debug\net9.0-windows\GuiYTDLP.exe
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\bin\Debug\net9.0-windows\GuiYTDLP.deps.json
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\bin\Debug\net9.0-windows\GuiYTDLP.runtimeconfig.json
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\bin\Debug\net9.0-windows\GuiYTDLP.dll
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\bin\Debug\net9.0-windows\GuiYTDLP.pdb
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\obj\Debug\net9.0-windows\GuiYTDLP.dll
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\obj\Debug\net9.0-windows\refint\GuiYTDLP.dll
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\obj\Debug\net9.0-windows\GuiYTDLP.pdb
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\obj\Debug\net9.0-windows\GuiYTDLP.genruntimeconfig.cache
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\obj\Debug\net9.0-windows\ref\GuiYTDLP.dll
+C:\Users\AL\Desktop\GuiYTDLP\GuiYTDLP\obj\Debug\net9.0-windows\GuiYTDLP.Properties.Resources.resources
